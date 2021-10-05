@@ -88,7 +88,8 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     marginVertical: 15,
-    textTransform: 'uppercase'
+    textTransform: 'uppercase',
+    fontFamily: 'open-sans-bold'
   },
   inputContainer: {
     alignItems: 'center',
